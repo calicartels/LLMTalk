@@ -42,8 +42,8 @@ $ pip install -r requirements.txt
 ## Key Features
 
 
-⭐️  Supports a variety of audio/video formats, including WAV, MP3, and FLAC.
-⭐️  Can generate transcripts on its own.
+⭐️  Supports a variety of audio/video formats, including WAV, MP3, and FLAC. <br>
+⭐️  Can generate transcripts on its own.<br>
 ⭐️  Can be used to create new and creative ways to interact with audio content.
 
 
