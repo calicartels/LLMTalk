@@ -5,7 +5,7 @@ This is a Streamlit application that helps you chat with your audio file powered
   <br>
   <img src="https://github.com/calicartels/LLMTalk/blob/main/_d2855674-b180-4015-95e3-e2cbf462f6fc.jpeg" alt="LLMTalk" width="300">
   <br>
-  <a href="https://github.com/calicartels/blind.ai">LLMTalk</a>
+  <a href="https://github.com/calicartels/LLMTalk">LLMTalk</a>
   <br>
 </h1>
 
