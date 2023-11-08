@@ -18,7 +18,7 @@ This is a Streamlit application that helps you chat with your audio file powered
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#refernces">References</a> •
-  <a href="#license">License</a>
+
 </p>
 
 ## Introduction
@@ -48,7 +48,7 @@ $ pip install -r requirements.txt
 
 
 ## How To Use
-To run this application you will be needing an OpenAI API Key
+To run this application you will need an OpenAI API Key
 
 From your command line:
 
